@@ -1,2 +1,2 @@
 # MontageSetup
- MATLAB Application for setting up electrode labels on Blackrock Neurotech Central Software Suite
+ MATLAB Application for channels efficiently on Blackrock Neurotech Central Software Suite
